@@ -9,9 +9,11 @@ This repository is used only for publishing installable application builds and r
 
 The current stable Android release is:
 
-**Nodra 1.4.2**
+**Nodra 1.4.3**
 
-Download the APK from the **Releases** section of this repository.
+Download the APK from the [latest release (v1.4.3)](https://github.com/NodraMesh/NodraApps/releases/tag/v1.4.3).
+
+**Previous version:** [Nodra 1.4.2](https://github.com/NodraMesh/NodraApps/releases/tag/v1.4.2) — superseded by v1.4.3; use only if you specifically need an older build.
 
 ### Installation
 
@@ -24,11 +26,11 @@ Download the APK from the **Releases** section of this repository.
 
 ## Integrity
 
-For release **1.4.2**:
+For release **1.4.3**:
 
 ```text
 SHA-256
-359dda8df2c68b5e0874ffd7b0be6800409f885fa1d5149507fabe93e6848397
+E12142749B6B01F947E908E22397046346F18AA9CAD25CF0BEE73668C2B48333
 ```
 
 You can compare this checksum with the downloaded APK to verify that the file has not changed.
