@@ -1,12 +1,30 @@
 # Releases
 
-## Nodra 1.4.2
+## Nodra 1.4.3 — Current Stable Release
 
-**Status:** Stable  
+**Status:** Current / Stable  
+**Platform:** Android  
+**Package:** [Nodra-1.4.3.apk](https://github.com/NodraMesh/NodraApps/releases/tag/v1.4.3)
+
+Major update focused on automatic device discovery, live messaging, notifications, background mesh operation and performance improvements.
+
+### File integrity
+
+```text
+SHA-256: E12142749B6B01F947E908E22397046346F18AA9CAD25CF0BEE73668C2B48333
+```
+
+[View the v1.4.3 release](https://github.com/NodraMesh/NodraApps/releases/tag/v1.4.3)
+
+---
+
+## Nodra 1.4.2 — Superseded by 1.4.3
+
+**Status:** Previous release / No longer current  
 **Platform:** Android  
 **Package:** APK
 
-Nodra 1.4.2 is the first stable Android build published through the official Nodra Apps distribution repository.
+Nodra 1.4.2 was the first stable Android build published through the official Nodra Apps distribution repository. **For current installations, use [Nodra 1.4.3](https://github.com/NodraMesh/NodraApps/releases/tag/v1.4.3).**
 
 ### Download
 
