@@ -8,6 +8,14 @@
 
 Major update focused on automatic device discovery, live messaging, notifications, background mesh operation and performance improvements.
 
+### UI Redesign — Source Update (October 30, 2026)
+
+Nodra is moving away from decorative futurism toward a stricter, privacy-first UI: compact **NODRA** branding, calmer dark/light palettes, flat surfaces and more restrained controls.
+
+**Source change:** [Nodra 1.4.3 — UI Redesign](https://github.com/NodraMesh/Nodra/pull/4) (merged into the Android source branch).
+
+**APK notice:** The published `Nodra-1.4.3.apk` **does not include this post-release redesign**. The existing download and SHA-256 remain unchanged; distributing the redesigned UI requires a future APK build.
+
 ### File integrity
 
 ```text
