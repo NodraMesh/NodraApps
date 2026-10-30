@@ -40,8 +40,6 @@ Nodra 1.4.3 focuses on a smoother, more automatic, and more dependable offline m
 
 This is a **visual-only change**, with the existing functionality, network protocol, encryption and security unchanged.
 
-Source change: [Nodra 1.4.3 — UI Redesign](https://github.com/NodraMesh/Nodra/pull/4).
-
 **Important:** The existing `Nodra-1.4.3.apk` in this release was compiled before the redesign. It **does not contain these UI changes**. No new APK has been published and the published checksum remains unchanged.
 
 ## Security remains a priority
