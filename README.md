@@ -13,6 +13,11 @@ The current stable Android release is:
 
 Download the APK from the [latest release (v1.4.3)](https://github.com/NodraMesh/NodraApps/releases/tag/v1.4.3).
 
+Available builds:
+
+- **UI Redesign (updated interface):** [`Nodra-1.4.3-UI-Redesign.apk`](https://github.com/NodraMesh/NodraApps/releases/download/v1.4.3/Nodra-1.4.3-UI-Redesign.apk)
+- **Original (previous interface):** [`Nodra-1.4.3.apk`](https://github.com/NodraMesh/NodraApps/releases/download/v1.4.3/Nodra-1.4.3.apk)
+
 **Previous version:** [Nodra 1.4.2](https://github.com/NodraMesh/NodraApps/releases/tag/v1.4.2) — superseded by v1.4.3; use only if you specifically need an older build.
 
 ### UI Redesign — October 2026
@@ -29,7 +34,7 @@ Nodra is moving from decorative futuristic visuals to a cleaner, stricter and mo
 
 The redesign does not change Nodra's messaging behavior, mesh networking, security protocols or encryption.
 
-**Availability:** The redesigned interface has been implemented in the Android application code. The currently published 1.4.3 APK was built before this change and does not yet include the new design.
+**Availability:** The redesigned interface is available in `Nodra-1.4.3-UI-Redesign.apk`. The original `Nodra-1.4.3.apk` remains available for those who prefer the previous design. Both builds are version 1.4.3.
 
 ### Installation
 
@@ -42,10 +47,13 @@ The redesign does not change Nodra's messaging behavior, mesh networking, securi
 
 ## Integrity
 
-For release **1.4.3**:
+For release **1.4.3**, SHA-256 checksums for both APK files:
 
 ```text
-SHA-256
+Nodra-1.4.3-UI-Redesign.apk
+391453A3A58C0B75AE2D337FA3E0B4741419BBECF6B7821EF78B3FB674006A85
+
+Nodra-1.4.3.apk
 E12142749B6B01F947E908E22397046346F18AA9CAD25CF0BEE73668C2B48333
 ```
 
