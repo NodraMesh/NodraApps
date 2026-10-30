@@ -34,13 +34,13 @@ Nodra 1.4.3 focuses on a smoother, more automatic, and more dependable offline m
 - Less heavy message-sending and relay-processing work on the UI thread.
 - Better responsiveness when interacting with chats, controls, and the Radar.
 
-## UI Redesign — Post-release source update (October 30, 2026)
+## UI Redesign — October 30, 2026
 
-**From futuristic styling to focused privacy.** The Android source has been updated with a stricter, more minimal design that emphasizes private communication over decorative futurism. The interface now features a compact text-only NODRA Home header, clearer dark/light palettes, flat cards, refined navigation and understated message bubbles.
+**From futuristic styling to focused privacy.** The UI Redesign build introduces a stricter, more minimal design that emphasizes private communication over decorative futurism. The interface now features a compact text-only NODRA Home header, clearer dark/light palettes, flat cards, refined navigation and understated message bubbles.
 
 This is a **visual-only change**, with the existing functionality, network protocol, encryption and security unchanged.
 
-**Important:** The existing `Nodra-1.4.3.apk` in this release was compiled before the redesign. It **does not contain these UI changes**. No new APK has been published and the published checksum remains unchanged.
+**Availability:** The UI Redesign is included in `Nodra-1.4.3-UI-Redesign.apk`. The original `Nodra-1.4.3.apk` remains available with the previous design. Both APKs are version 1.4.3.
 
 ## Security remains a priority
 
@@ -48,7 +48,22 @@ This release **does not weaken or replace Nodra's existing cryptography or secur
 
 ## Download and installation
 
-Download **Nodra-1.4.3.apk** from the Assets section of this release and install it on your Android device. Only use APKs distributed through the official **NodraMesh/NodraApps** repository.
+Choose one APK from the Assets section of this release:
+
+- **UI Redesign:** [`Nodra-1.4.3-UI-Redesign.apk`](https://github.com/NodraMesh/NodraApps/releases/download/v1.4.3/Nodra-1.4.3-UI-Redesign.apk) — new minimal interface.
+- **Original:** [`Nodra-1.4.3.apk`](https://github.com/NodraMesh/NodraApps/releases/download/v1.4.3/Nodra-1.4.3.apk) — previous interface.
+
+Both are Nodra 1.4.3. Only use APKs distributed through the official **NodraMesh/NodraApps** repository.
+
+### File integrity — SHA-256
+
+```text
+Nodra-1.4.3-UI-Redesign.apk
+391453A3A58C0B75AE2D337FA3E0B4741419BBECF6B7821EF78B3FB674006A85
+
+Nodra-1.4.3.apk
+E12142749B6B01F947E908E22397046346F18AA9CAD25CF0BEE73668C2B48333
+```
 
 *Background discovery and connectivity are subject to Android device permissions, radio availability, and battery-management restrictions.*
 
