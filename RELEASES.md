@@ -4,20 +4,26 @@
 
 **Status:** Current / Stable  
 **Platform:** Android  
-**Package:** [Nodra-1.4.3.apk](https://github.com/NodraMesh/NodraApps/releases/tag/v1.4.3)
+**Available APKs:**
+- **UI Redesign:** [Nodra-1.4.3-UI-Redesign.apk](https://github.com/NodraMesh/NodraApps/releases/download/v1.4.3/Nodra-1.4.3-UI-Redesign.apk)
+- **Original design:** [Nodra-1.4.3.apk](https://github.com/NodraMesh/NodraApps/releases/download/v1.4.3/Nodra-1.4.3.apk)
 
 Major update focused on automatic device discovery, live messaging, notifications, background mesh operation and performance improvements.
 
-### UI Redesign — Source Update (October 30, 2026)
+### UI Redesign — October 30, 2026
 
 Nodra is moving away from decorative futurism toward a stricter, privacy-first UI: compact **NODRA** branding, calmer dark/light palettes, flat surfaces and more restrained controls.
 
-**APK notice:** The published `Nodra-1.4.3.apk` **does not include this post-release redesign**. The existing download and SHA-256 remain unchanged; distributing the redesigned UI requires a future APK build.
+**Availability:** The refreshed interface is included in `Nodra-1.4.3-UI-Redesign.apk`. The original `Nodra-1.4.3.apk` is also available with the previous interface. Both are Nodra 1.4.3.
 
-### File integrity
+### File integrity — SHA-256
 
 ```text
-SHA-256: E12142749B6B01F947E908E22397046346F18AA9CAD25CF0BEE73668C2B48333
+Nodra-1.4.3-UI-Redesign.apk
+391453A3A58C0B75AE2D337FA3E0B4741419BBECF6B7821EF78B3FB674006A85
+
+Nodra-1.4.3.apk
+E12142749B6B01F947E908E22397046346F18AA9CAD25CF0BEE73668C2B48333
 ```
 
 [View the v1.4.3 release](https://github.com/NodraMesh/NodraApps/releases/tag/v1.4.3)
