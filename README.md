@@ -15,6 +15,22 @@ Download the APK from the [latest release (v1.4.3)](https://github.com/NodraMesh
 
 **Previous version:** [Nodra 1.4.2](https://github.com/NodraMesh/NodraApps/releases/tag/v1.4.2) — superseded by v1.4.3; use only if you specifically need an older build.
 
+### UI Redesign — October 2026
+
+**From futuristic styling to focused privacy.**
+
+Nodra is moving from decorative futuristic visuals to a cleaner, stricter and more minimal interface that puts private communication first.
+
+- Compact text-based **NODRA** branding on the Home screen.
+- Refined dark and light themes with a restrained color palette.
+- Flat surfaces, subtle borders and more precise shapes.
+- Clearer navigation, chats, messages and settings.
+- Less visual noise, with the same familiar functionality.
+
+The redesign does not change Nodra's messaging behavior, mesh networking, security protocols or encryption.
+
+**Availability:** The redesigned interface has been implemented in the Android application code. The currently published 1.4.3 APK was built before this change and does not yet include the new design.
+
 ### Installation
 
 1. Download the APK from the latest GitHub Release.
